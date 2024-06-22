@@ -13,7 +13,7 @@ timezone: ''
 
 # URL https://github.com/Luogoddes/Hexo.git
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Luogoddes.github.io/Hexo
+url: https://luogoddes.github.io/Hexo     #访问静态文件的链接 luogoddes 这个要小写 后面那个区分大小写
 root: /Hexo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:

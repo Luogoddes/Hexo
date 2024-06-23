@@ -69,4 +69,4 @@ autoprefixer:
     - '*.min.css'
 clean_css:
   exclude: 
-    - *.min.css
+    - '*.min.css'

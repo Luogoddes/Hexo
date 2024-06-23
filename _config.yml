@@ -64,7 +64,6 @@ deploy:
   type: git
   repo: https://github.com/Luogoddes/Hexo.git
   branch: gh-pages
-
 autoprefixer:
   exclude:
     - '*.min.css'

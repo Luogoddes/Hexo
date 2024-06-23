@@ -67,3 +67,6 @@ deploy:
 autoprefixer:
   exclude:
     - '*.min.css'
+clean_css:
+  exclude:
+    - '*.min.css'

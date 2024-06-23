@@ -1,3 +1,17 @@
+# Header
+menu:
+  首页: /
+  画廊: /gallery
+  案例: /stories
+  新闻: /archives
+  关于: /about
+
+# Content
+excerpt_link: 阅读全文
+
+# Toc
+toc: true
+
 title: Hexo
 subtitle: 洛洛的博客
 description: ''
@@ -66,7 +80,4 @@ deploy:
   branch: gh-pages
 autoprefixer:
   exclude:
-    - '*.min.css'
-clean_css:
-  exclude: 
     - '*.min.css'

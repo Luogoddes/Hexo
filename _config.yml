@@ -1,9 +1,9 @@
-title: Hexo
+title: 洛洛
 subtitle: 洛洛的博客
 description: ''
 keywords: null
 author: Luogoddes
-language: cn
+language: zh-CN # 中文：zh-CN | 英文：en
 timezone: ''
 url: https://luogoddes.github.io/Hexo
 root: /Hexo/
@@ -60,6 +60,8 @@ include: null
 exclude: null
 ignore: null
 theme: meow
+search:
+  enable: true
 deploy:
   type: git
   repo: https://github.com/Luogoddes/Hexo.git

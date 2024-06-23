@@ -83,8 +83,8 @@ page_view:
 # currently support icons of items below, any other links will be display in paw icon 目前支持以下网站图标，其他链接统一用猫爪图标显示
 # Email|邮箱,Github,Twitter,Facebook,Instagram,Tiktok|抖音,Bilibili,Weibo|微博,Mastodon,Wechat|公众号
 contact_info:
-  Email: chan.wj@outlook.com
-  Github: https://github.com/chanwj
+  Email: luo5787@outlook.com
+  Github: https://github.com/Luogoddes/Hexo
   Twitter: /
   Facebook: /
   Instagram:
@@ -93,6 +93,7 @@ contact_info:
   Weibo: /
   AO3: /
   Mastodon:
+  csdn: /
   公众号: '公众号名称' # format:'account' 配置格式:'公众号名称'
 
 # other links to display 其他链接

@@ -13,7 +13,7 @@ menu:
 # 网站信息
 # 此处的配置仅影响页内展示，不影响网页meta
 blog_info:
-  title: MEOW
+  title: 洛洛的小破站
   subtitle: 可爱明亮的Hexo主题
   description: Hexo主题「Meow」展示站。本主题优化了原创小说、同人作品的发布适配性，也适用于教程分享、日常记录等用途。
 
@@ -98,7 +98,7 @@ about:
     supplement: '&#127775;<u>这是作者投入许多时间与精力制作而成的作品，如果您需要使用本主题，请保留页脚部分的主题版权信息，非常感谢！</u>'
   about_author:
     title: 关于作者
-    description: 一只既写小说又敲代码的橘猫，是个糕手。
+    description: 一只什么都会点但又都不太会的洛洛，真是糟糕。
   about_contact: 联系方式
   about_links: 其他链接
   reward:

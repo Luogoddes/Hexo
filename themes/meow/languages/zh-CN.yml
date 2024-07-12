@@ -85,7 +85,7 @@ about:
   about_blog:
     title: 关于本站
     # 博客关键词，以','分隔
-    keywords: Hexo,主题,博客,开源,教程
+    keywords: 工具,博客,开源,教程
     # 介绍博客，支持Markdown语法
     introduction: '- 「Meow」是一款可应用于Hexo博客框架的主题，源码已在[Github](https://github.com/chanwj/hexo-theme-meow)上公开。
     

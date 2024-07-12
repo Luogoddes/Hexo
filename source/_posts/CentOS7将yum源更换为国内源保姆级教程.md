@@ -4,7 +4,8 @@ date: 2024-07-12 09:30:04
 tags: CentOS7 yum换源
 ---
 
-	在 CentOS 7 中更换 YUM (Yellowdog Updater Modified) 源到国内镜像可以显著提升软件包的下载速度。以下是一种常见的方法来更换为国内源，例如阿里云镜像：
+在 CentOS 7 中更换 YUM (Yellowdog Updater Modified) 源到国内镜像可以显著提升软件包的下载速度。
+以下是一种常见的方法来更换为国内源，例如阿里云镜像：
 
 1. **备份原有源配置文件**：
    ```sh
